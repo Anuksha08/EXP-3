@@ -1,8 +1,9 @@
 ## EXPERIMENT NO. 3 – STAIRCASE WIRING
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** |ANUKSHA S| **Reg. No.:** |26016254|
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** |18.11.26| **Batch / Section:** |260DJ121
+|
 
 ---
 
@@ -47,7 +48,7 @@ To control the status of the given lamp by using two-way switches.
 
 ### Circuit diagram
 
-*[ Insert the direct connection circuit diagram here ]*
+<img width="1536" height="860" alt="image" src="https://github.com/user-attachments/assets/d0d0c647-8a3f-42c9-9624-164627153d43" />
 
 **Figure 1:** Staircase wiring – direct connection
 
@@ -55,18 +56,14 @@ To control the status of the given lamp by using two-way switches.
 
 *Enter the switch position as UP / DOWN (or 1 / 0) and the lamp status as ON / OFF for each combination.*
 
-| S. No. | Switch S1 position | Switch S2 position | Lamp status (ON / OFF) |
-|:---:|:---:|:---:|:---:|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
+<img width="1031" height="835" alt="image" src="https://github.com/user-attachments/assets/c8e1a932-5dda-4aac-94b1-fab4e029b93a" />
+
 
 ## B. CROSS CONNECTION
 
 ### Circuit diagram
 
-*[ Insert the cross connection circuit diagram here ]*
+<img width="1536" height="874" alt="image" src="https://github.com/user-attachments/assets/f323a6e7-bbe8-4a1b-9c29-0faa5cbc3f29" />
 
 **Figure 2:** Staircase wiring – cross connection
 
@@ -74,12 +71,8 @@ To control the status of the given lamp by using two-way switches.
 
 *Enter the switch position as UP / DOWN (or 1 / 0) and the lamp status as ON / OFF for each combination.*
 
-| S. No. | Switch S1 position | Switch S2 position | Lamp status (ON / OFF) |
-|:---:|:---:|:---:|:---:|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
+<img width="1040" height="738" alt="image" src="https://github.com/user-attachments/assets/c66c7b0b-72c5-4bdc-8c1d-96589aa96b7f" />
+
 
 ## SIMULATION USING PROTEUS
 
@@ -87,13 +80,15 @@ Build both the direct and cross connection circuits in Proteus using an AC sourc
 
 ### A. Direct connection – simulation
 
-*[ Paste the Proteus direct connection simulation screenshot here ]*
+<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/0e230011-8fb8-4a87-a768-632beeca1844" />
+
 
 **Figure 3:** Proteus simulation – direct connection
 
 ### B. Cross connection – simulation
 
-*[ Paste the Proteus cross connection simulation screenshot here ]*
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/8a9e0e1f-7830-4a58-bd00-ce40c619b851" />
+
 
 **Figure 4:** Proteus simulation – cross connection
 
